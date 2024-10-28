@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.lightt{
+    height:100vh;
+    width: 100%;
+    background-color: white;
+}
+
+.darkk{
+    height:100vh;
+    width: 100%;
+    background-color: black;
+}
+button{
+    margin-top: 40px;
+    float: right;
+    margin-right: 20px;
+}
+.light{
+    height:12vh;
+    width: 100%;
+    background-color: black;
+    border: 2px solid black;
+}
+.dark{
+    height:12vh;
+    width: 100%;
+    background-color:white;
+}
+.light button{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.dark button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.light img{
+
+    margin-top: 20px;
+    height:70px;
+    width:70px;
+}
+.dark img{
+    margin-top: 20px;
+    height:70px;
+    width:70px;
+    filter: drop-shadow(3px 7px 2px black);
+}
