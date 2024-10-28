@@ -22,7 +22,7 @@ By using conditional rendering and useState, this page allows users to toggle be
 # 5. Context API: 
 In this part, you’ve used the Context API to manage global state, making data accessible across different components without prop drilling. This is especially useful for theme management, user authentication, or other global data.
 
-And many more
+# And many more Concepts
 
 Each page is a standalone example within the repository, making it an excellent resource for showcasing my React proficiency and for use as a learning reference. This project reflects a strong grasp of React fundamentals and their practical application.
 
